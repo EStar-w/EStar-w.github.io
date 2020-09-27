@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Star                          # the main title
+title: 王嘉梁                          # the main title
 
-tagline: 石家庄铁道大学_软件工程系_信705-1班_王嘉梁  # it will display as the sub-title
+tagline: 石家庄铁道大学 软件工程系 信1705-1班  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -25,7 +25,7 @@ author: 王嘉梁                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: Estar-w             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
